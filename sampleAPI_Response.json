@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Megan Thee Stallion 'will never be the same' after being shot by Tory Lanez",
+            "description": "Tory Lanez is set to be sentenced for shooting fellow hiphop star Megan Thee Stallion in the feet.",
+            "url": "http://www.bbc.co.uk/news/entertainmentarts66428109",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AF2/production/_130681888_68b1fe9b3ced5741b2cdd333687649d88515b1e2.jpg",
+            "publishedAt": "20230808T09:22:25.9060539Z",
+            "content": "Megan Thee Stallion has said she will \"never be the same\" after being shot in the feet by fellow rap star Tory Lanez, as a judge prepares to sentence him.\r\nMegan, a triple Grammy Award winner, wrote … [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Zoom orders workers back to the office",
+            "description": "The company says staff living near offices should work in person at least twice a week.",
+            "url": "http://www.bbc.co.uk/news/business66432173",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7470/production/_130680892_gettyimages1219773237.jpg",
+            "publishedAt": "20230808T09:22:22.8599365Z",
+            "content": "Zoom, the video communications company whose name became synonymous with remote work during the pandemic, has ordered staff back to the office.\r\nThe firm said it believed a \"structured hybrid approac… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bryan Randall: Sandra Bullock's longterm partner dies aged 57",
+            "description": "The actress has been praised for the \"amazing\" way she cared for Bryan Randall in his final years.",
+            "url": "http://www.bbc.co.uk/news/entertainmentarts66437720",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B1F6/production/_130685554_crgettyimages968036122.jpg",
+            "publishedAt": "20230808T09:07:14.7652891Z",
+            "content": "Actress Sandra Bullock's longterm partner, photographer Bryan Randall, has died at the age of 57.\r\nHis family confirmed he died after being diagnosed three years ago with amyotrophic lateral scleros… [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: Where is Greta not going to visit?",
+            "description": "Test your knowledge of the news these last few days  10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/worlduscanada66423419",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0CC3/production/_130676230_mediaitem130676229.jpg",
+            "publishedAt": "20230808T06:52:18.6722399Z",
+            "content": "Test your news knowledge against the clock. Can you outscore your friends? \r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser, or take Friday's quiz of the… [+101 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine arrests woman over alleged plot to kill Zelensky",
+            "description": "Officials allege the suspect passed information to Russia about the Ukrainian president's movements.",
+            "url": "http://www.bbc.co.uk/news/worldeurope66431839",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB24/production/_130680974_c31f888d8c8bce231c7aca4a217bdca3bcdc78c0.jpg",
+            "publishedAt": "20230808T06:52:17.8599436Z",
+            "content": "Ukraine's security service says a woman has been arrested over a Russian plot to kill President Volodymyr Zelensky. \r\nThe service said she had tried to find out the itinerary ahead of his visit to fl… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Portugal battles wildfires amid third heatwave of the year",
+            "description": "Temperatures in excess of 40C are expected to hit much of the Iberian peninsula this week.",
+            "url": "http://www.bbc.co.uk/news/worldeurope66435160",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C4C/production/_130684130_87c40543efd639ad572514a2da3756cabbc2019f0_0_5797_38651000x667.jpg",
+            "publishedAt": "20230808T05:07:21.8280355Z",
+            "content": "Firefighters in Portugal are battling to contain wildfires engulfing thousands of hectares amid soaring temperatures.\r\nAround 800 personnel attended a fire near the southern town of Odemira overnight… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cost of living: Beyond Meat hit as shoppers shift to cheaper animal protein",
+            "description": "The firm's sales fell 30.5% as the rising cost of living pushed shoppers to buy cheaper animal protein.",
+            "url": "http://www.bbc.co.uk/news/business66435863",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C632/production/_130683705_ea2363fd6e2be67055157c4f5e6766110777ffea.jpg",
+            "publishedAt": "20230808T04:37:20.066986Z",
+            "content": "Vegan food firm Beyond Meat has seen its sales plunge by almost a third as the rising cost of living pushes shoppers to buy cheaper animal protein.\r\nThe plantbased meat substitute maker says revenue… [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fiery ‘meteor’ over Australia likely Russian rocket",
+            "description": "Flaming debris was seen blazing across the night sky in Melbourne on Monday evening.",
+            "url": "http://www.bbc.co.uk/news/worldaustralia66436211",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DAF0/production/_130684065_p0g5f1fs.jpg",
+            "publishedAt": "20230808T04:22:14.2236303Z",
+            "content": "Flaming debris was seen blazing across the night sky in Melbourne on Monday, sparking a flurry of social media posts questioning if it was a meteor. \r\nThe Australian Space Agency said in a statement … [+181 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Investigating the 'spiritual healers' sexually abusing women",
+            "description": "A hidden world of exploitation by men working as \"spiritual healers\" has been uncovered by the BBC.",
+            "url": "http://www.bbc.co.uk/news/worldafrica65264921",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C059/production/_129414294_sexualhealing_hanan.jpg",
+            "publishedAt": "20230808T02:37:19.6927555Z",
+            "content": "A hidden world of sex abuse and exploitation by men working as \"spiritual healers\" has been uncovered by BBC Arabic. \r\nSpiritual healing, also known as \"Quranic healing\", is a popular practice in the… [+6570 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Carbon credits  land grab or the Amazon’s future?",
+            "description": "The eight countries who share the rainforest are meeting in Brazil for a \"milestone\" summit.",
+            "url": "http://www.bbc.co.uk/news/worldlatinamerica66435166",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B6F6/production/_130683864_womanepa.jpg",
+            "publishedAt": "20230808T02:22:19.2707307Z",
+            "content": "This week, delegates arriving in Belém's international airport are being welcomed with a lively \"Boi de mascara\" folkloric dance routine. In fact, the whole city is celebrating being in the spotlight… [+5810 chars]"
+        }
+    ]
+}
